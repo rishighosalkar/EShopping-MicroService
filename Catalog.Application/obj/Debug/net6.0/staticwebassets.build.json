@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "rzjadNw+aQ6wGV7HbhBoispVNsZzbNeBupxIeA4TNkw=",
+  "Source": "Catalog.Application",
+  "BasePath": "_content/Catalog.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\MyApps\\EShopping\\Catalog.Core\\Catalog.Core.csproj",
+      "Version": 2,
+      "Source": "Catalog.Core",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
